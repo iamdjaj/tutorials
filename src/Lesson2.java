@@ -7,7 +7,8 @@ public class Lesson2 {
 		Scanner scanner = new Scanner(System.in);
 		
 		// String input;
-		// Hello
+		// Hello make a program that makes sound
+		// Another comment
 		
 		System.out.print("Hey, who the hack are you? \n");
 		
